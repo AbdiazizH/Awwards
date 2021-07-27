@@ -1,7 +1,7 @@
 Awwards-app
 
 # Description
-This is a Django application for personal gallery that allows a user to upload images for other to see and be able to to share by coping the image link.
+This is a Django application for displaying different projects and different users can rate on them based on their usability,design and content.
 
 # Live Link
 Click to visit the webite
