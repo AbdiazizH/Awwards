@@ -28,11 +28,15 @@ To get the project .......
 git clone :https://github.com/AbdiazizH/Awwards.git
 
 2.Navigate into the folder and install requirements
+
 cd Awwards pip install -r requirements.txt   
+
 3.Install and activate Virtual
 
 python3 -m venv virtual - source virtual/bin/activate
+
 Install Dependencies
+
 4.pip install -r requirements.txt
 
 5.Setup Database
