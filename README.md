@@ -1,4 +1,2 @@
 AWWARDS APP
 
-# Description
-
