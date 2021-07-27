@@ -1,8 +1,4 @@
 from django.shortcuts import render
-
-# Create your views here.
-
-
 from django.contrib.auth import authenticate, login
 from django.shortcuts import render,redirect
 from django.contrib.auth.decorators import login_required
@@ -18,6 +14,7 @@ from .models import Profile,Projects,Revieww
 from .serializer import ProfileSerializer,ProjectSerializer
 
 # Create your views here.
+
 def index(request):
     projects = Projects.objects.all()
     return render(request,'index.html',{"projects":projects})
