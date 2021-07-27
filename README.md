@@ -48,9 +48,11 @@ Now Migrate
 python manage.py migrate
 
 6. Run the application
+
 python manage.py runserver
 
 7. Running the application
+
 python manage.py server 
 
 8. Testing the application
