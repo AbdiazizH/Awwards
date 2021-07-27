@@ -61,11 +61,14 @@ python manage.py test
 
 # Technology used
 Python3.8
+
 Django 1.11.17
+
 Heroku
 
 # Author
 Abdiaziz Hussein
 
 License
+
 Copyright (c) 2021 Abdi
