@@ -7,10 +7,12 @@ This is a Django application for displaying different projects and different use
 Click to visit the webite
 
 # User Story
-View different photos that interest them
-Click a single image to expand it and view the details of that photo
-Search for different categories
-View photos based on the location they were taken.
+View posted projects and their details
+Post a project to be rated/reviewed
+Rate/ review other users' projects
+Search for projects
+View projects overall score
+View my profile page
 
 # Setup and Installation
 
