@@ -4,7 +4,7 @@ Awwards-app
 This is a Django application for displaying different projects and different users can rate on them based on their usability,design and content.
 
 # Live Link
-Click to visit the webite
+Click to visit the webite : https://awwards3.herokuapp.com/
 
 # User Story
 View posted projects and their details
