@@ -55,6 +55,7 @@ def searchprofile(request):
     return render(request, 'search.html', {'message': message})
 
 
+
 @login_required(login_url='login')   
 def addProject(request):
     current_user = request.user
