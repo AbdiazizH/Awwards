@@ -20,10 +20,10 @@ To get the project .......
 
 1.Cloning the repository:
 
-git clone :https://github.com/AbdiazizH/Gallery-app.git
+git clone :https://github.com/AbdiazizH/Awwards.git
 
 2.Navigate into the folder and install requirements
-cd Gallery-app pip install -r requirements.txt   
+cd Awwards pip install -r requirements.txt   
 3.Install and activate Virtual
 
 python3 -m venv virtual - source virtual/bin/activate
